@@ -23,3 +23,5 @@ brenden.learn(some_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
+puts "Brenden just learned this important knowledge: '#{brenden.knowledge.sample}' from Avi"
+
